@@ -8,3 +8,8 @@ There are:
 To run correctly the code:
 -Notebook and dataset should be in the same place
 -Having the correct Python packages (matplotlib, numpy, mlrose_hiive...)
+
+# README Assignment 3
+
+3 JupyterNotebooks (one for each dataset, one for an example chart)
+1 PDF
