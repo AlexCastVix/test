@@ -1,16 +1,7 @@
-# README Assignment 2
-
-There are:
--1 PDF rapport
--2 CSV files containing the two data sets
--2 Jupyter NoteBooks (.ipynb) that contains the code (1 specially used for Assignment 2 and reuse of the code of Assignment1)
-
-To run correctly the code:
--Notebook and dataset should be in the same place
--Having the correct Python packages (matplotlib, numpy, mlrose_hiive...)
-
 # README Assignment 3
 
-3 JupyterNotebooks (one for each dataset, one for an example chart)
-1 PDF
-Everything is in the file ML3
+Everything is included in the RL file:
+- 1 Jupyter notebook
+- the PDF analysis
+
+https://github.com/AlexCastVix/test/edit/main/README.md
